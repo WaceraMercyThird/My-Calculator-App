@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyCal</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="modulus">%</string>
+    <string name="division">/</string>
+</resources>
